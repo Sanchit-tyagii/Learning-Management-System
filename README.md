@@ -44,4 +44,21 @@ As a User, you can:
 - **Dashboard Overview:** Access details like total learners, courses, most liked courses, and chapters.
 - **Embedded YouTube Tutorials:** Enroll in and view YouTube tutorial courses directly within the portal.
 
+## Technologies Used
+
+### Server Side ⚡
+- **Spring Boot:** Framework for building Java-based web applications.
+- **Spring:** Core framework for Java applications.
+- **Hibernate:** ORM framework for database operations.
+
+### Database 🥅
+- **MySQL:** Relational database management system.
+
+### Development 🔭
+- **Java:** Primary programming language used for server-side development.
+
+### Development Tools 📺
+- **Postman:** Tool for API testing and development.
+- **Spring:** Framework used for application development.
+- **Visual Studio Code:** Code editor for development and debugging.
 
