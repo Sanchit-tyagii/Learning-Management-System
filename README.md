@@ -44,16 +44,4 @@ As a User, you can:
 - **Dashboard Overview:** Access details like total learners, courses, most liked courses, and chapters.
 - **Embedded YouTube Tutorials:** Enroll in and view YouTube tutorial courses directly within the portal.
 
-## Additional Features
-- **Embedded Video Courses:** Users can access YouTube tutorial videos embedded within the platform for an enhanced learning experience.
 
-## Getting Started
-1. **Installation:** Follow the installation instructions in the `INSTALL.md` file.
-2. **Configuration:** Configure the application by setting up your database and environment variables.
-3. **Running the Application:** Start the application using the provided script or command.
-
-## Contribution
-We welcome contributions! Please refer to the `CONTRIBUTING.md` file for guidelines on how to contribute to the project.
-
-## License
-This project is licensed under the MIT License. See the `LICENSE.md` file for details.
